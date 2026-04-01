@@ -21,7 +21,7 @@ I’m learning web development and practicing Git & GitHub.
 1. Make sure Node.js is installed  
 2. Clone this repository:
 
-git clone https://github.com/dayleelafaeleiosua/hello-world-project.git
+git clone https://github.com/dayleelafaeleiosua/hello-world-project
 
 3. Open the folder:
 
